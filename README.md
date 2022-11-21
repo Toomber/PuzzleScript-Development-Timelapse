@@ -1,9 +1,8 @@
-PuzzleScript
+PuzzleScript Development Timelapse
 ============
 
-Open Source HTML5 Puzzle Game Engine
-
-Try it out at https://www.puzzlescript.net.
+A fork of https://www.puzzlescript.net, designed to allow visualisation of how puzzlescript games are developed over time, as new levels and graphics are added.
+Work in progress.
 
 -----
 
