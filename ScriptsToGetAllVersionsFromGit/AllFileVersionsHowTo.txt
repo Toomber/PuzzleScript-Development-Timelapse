@@ -1,0 +1,8 @@
+
+open Git Bash in folder (using "Git Bash Here" right click option in folder)
+
+run 
+$ sh git_all_versions_of.sh FileName.txt
+where the addresses of git_all_versions_of and FileName are accounted for
+
+This will save all versions of the specified file to the folder.
